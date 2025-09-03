@@ -26,7 +26,7 @@ It uses **FAISS** for semantic retrieval and **Mistral-7B** as the language mode
   - Returns retrieved evidence + generated medical explanation.
 
 ---
-# 📸 Screenshot  
+# 📸 Screenshots
 
 <p align="center">
   <img src="./images/rag1.jpg" alt="Rag" width="450" />
